@@ -1,0 +1,6 @@
+[submodule "telegram-download-manager"]
+	path = telegram-download-manager
+	url = git@github.com:ADPer0705/telegram-download-manager.git
+[submodule "ADB_Data_Fetcher"]
+	path = ADB_Data_Fetcher
+	url = git@github.com:ADPer0705/ADB_Data_Fetcher.git
