@@ -1,0 +1,36 @@
+2025-09-06 16:56:18,420 - INFO - Logging initialized. Log file: /mnt/s/workshop/vibe-coding/logs/submodule_update_20250906_165618.log
+2025-09-06 16:56:18,420 - INFO - Starting submodule update process
+2025-09-06 16:56:18,421 - INFO - Found 3 submodules: ['telegram-download-manager', 'ADB_Data_Fetcher', 'parsec']
+2025-09-06 16:56:18,421 - DEBUG - Running command: git submodule update --init --recursive in /mnt/s/workshop/vibe-coding
+2025-09-06 16:56:18,505 - INFO - Updating submodule: telegram-download-manager
+2025-09-06 16:56:18,505 - DEBUG - Running command: git rev-parse HEAD in /mnt/s/workshop/vibe-coding/telegram-download-manager
+2025-09-06 16:56:18,519 - DEBUG - Running command: git fetch origin in /mnt/s/workshop/vibe-coding/telegram-download-manager
+2025-09-06 16:56:21,566 - DEBUG - Running command: git symbolic-ref refs/remotes/origin/HEAD in /mnt/s/workshop/vibe-coding/telegram-download-manager
+2025-09-06 16:56:21,576 - DEBUG - Running command: git rev-parse origin/main in /mnt/s/workshop/vibe-coding/telegram-download-manager
+2025-09-06 16:56:21,585 - INFO - Submodule telegram-download-manager is already up-to-date
+2025-09-06 16:56:21,586 - DEBUG - Running command: git rev-parse HEAD in /mnt/s/workshop/vibe-coding/telegram-download-manager
+2025-09-06 16:56:21,596 - DEBUG - Running command: git fetch origin in /mnt/s/workshop/vibe-coding/telegram-download-manager
+2025-09-06 16:56:24,680 - DEBUG - Running command: git symbolic-ref refs/remotes/origin/HEAD in /mnt/s/workshop/vibe-coding/telegram-download-manager
+2025-09-06 16:56:24,690 - DEBUG - Running command: git rev-parse origin/main in /mnt/s/workshop/vibe-coding/telegram-download-manager
+2025-09-06 16:56:24,701 - INFO - Updating submodule: ADB_Data_Fetcher
+2025-09-06 16:56:24,702 - DEBUG - Running command: git rev-parse HEAD in /mnt/s/workshop/vibe-coding/ADB_Data_Fetcher
+2025-09-06 16:56:24,711 - DEBUG - Running command: git fetch origin in /mnt/s/workshop/vibe-coding/ADB_Data_Fetcher
+2025-09-06 16:56:27,820 - DEBUG - Running command: git symbolic-ref refs/remotes/origin/HEAD in /mnt/s/workshop/vibe-coding/ADB_Data_Fetcher
+2025-09-06 16:56:27,829 - DEBUG - Running command: git rev-parse origin/master in /mnt/s/workshop/vibe-coding/ADB_Data_Fetcher
+2025-09-06 16:56:27,840 - INFO - Submodule ADB_Data_Fetcher is already up-to-date
+2025-09-06 16:56:27,841 - DEBUG - Running command: git rev-parse HEAD in /mnt/s/workshop/vibe-coding/ADB_Data_Fetcher
+2025-09-06 16:56:27,852 - DEBUG - Running command: git fetch origin in /mnt/s/workshop/vibe-coding/ADB_Data_Fetcher
+2025-09-06 16:56:31,187 - DEBUG - Running command: git symbolic-ref refs/remotes/origin/HEAD in /mnt/s/workshop/vibe-coding/ADB_Data_Fetcher
+2025-09-06 16:56:31,197 - DEBUG - Running command: git rev-parse origin/master in /mnt/s/workshop/vibe-coding/ADB_Data_Fetcher
+2025-09-06 16:56:31,211 - INFO - Updating submodule: parsec
+2025-09-06 16:56:31,212 - DEBUG - Running command: git rev-parse HEAD in /mnt/s/workshop/vibe-coding/parsec
+2025-09-06 16:56:31,222 - DEBUG - Running command: git fetch origin in /mnt/s/workshop/vibe-coding/parsec
+2025-09-06 16:56:31,934 - DEBUG - Running command: git symbolic-ref refs/remotes/origin/HEAD in /mnt/s/workshop/vibe-coding/parsec
+2025-09-06 16:56:31,944 - DEBUG - Running command: git rev-parse origin/main in /mnt/s/workshop/vibe-coding/parsec
+2025-09-06 16:56:31,953 - INFO - Submodule parsec is already up-to-date
+2025-09-06 16:56:31,953 - DEBUG - Running command: git rev-parse HEAD in /mnt/s/workshop/vibe-coding/parsec
+2025-09-06 16:56:31,959 - DEBUG - Running command: git fetch origin in /mnt/s/workshop/vibe-coding/parsec
+2025-09-06 16:56:32,646 - DEBUG - Running command: git symbolic-ref refs/remotes/origin/HEAD in /mnt/s/workshop/vibe-coding/parsec
+2025-09-06 16:56:32,655 - DEBUG - Running command: git rev-parse origin/main in /mnt/s/workshop/vibe-coding/parsec
+2025-09-06 16:56:32,668 - INFO - Updated submodules: ['telegram-download-manager', 'ADB_Data_Fetcher', 'parsec']
+2025-09-06 16:56:32,668 - DEBUG - Running command: git add . in /mnt/s/workshop/vibe-coding
