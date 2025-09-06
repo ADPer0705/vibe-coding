@@ -1,0 +1,23 @@
+# Submodule Update Configuration
+# Copy this to .env and set your values
+
+# GitHub Configuration
+GITHUB_TOKEN=your_github_personal_access_token_here
+REPO_OWNER=ADPer0705
+REPO_NAME=vibe-coding
+
+# Update Settings
+AUTO_PUSH=false
+VERBOSE=false
+
+# Scheduling (for manual cron setup)
+# Format: minute hour day month weekday
+# Examples:
+# Every 6 hours: 0 */6 * * *
+# Daily at 2 AM: 0 2 * * *
+# Weekly on Monday: 0 9 * * 1
+UPDATE_SCHEDULE="0 */6 * * *"
+
+# Notification Settings (optional - for future extensions)
+NOTIFY_ON_UPDATE=false
+NOTIFICATION_WEBHOOK_URL=""
