@@ -4,3 +4,6 @@
 [submodule "ADB_Data_Fetcher"]
 	path = ADB_Data_Fetcher
 	url = git@github.com:ADPer0705/ADB_Data_Fetcher.git
+[submodule "parsec"]
+	path = parsec
+	url = https://github.com/ADPer0705/parsec.git

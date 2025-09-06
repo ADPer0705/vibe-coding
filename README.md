@@ -100,6 +100,36 @@ This repository houses those beautiful, functional chaos projects that were born
 
 **Tech Stack:** `Python 3.8+` • `Tkinter` • `TDLib` • `SQLite`
 
+---
+
+### 🚀 [Parsec](./parsec)
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+**The Need:** A single-window terminal experience that bridges natural language and shell commands. *"I want an AI co-pilot for my terminal, but I don't trust it to run commands without my approval."*
+
+**The Vibe:** Rust + AI + Safety-first design = The terminal of the future 🛡️
+
+<div align="center">
+
+| Feature | Description |
+|---------|-------------|
+| 🧠 **Smart Classification** | Distinguishes shell commands from natural language |
+| 🛡️ **Safety First** | No AI-generated command executes without approval |
+| 📋 **Workflow Planning** | AI breaks down complex tasks into reviewable steps |
+| 🔌 **Pluggable Models** | Support for different AI providers |
+| 🐍 **Python Integration** | Embedded Python for local classification |
+
+</div>
+
+**Tech Stack:** `Rust` • `Python` • `AI Models` • `Terminal UI`
+
 </div>
 
 ## 🎨 The Vibe Coding Methodology
